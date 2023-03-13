@@ -8,3 +8,7 @@ Link for the page course in freeCodeCamp News site: https://www.freecodecamp.org
 
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
+## Instructions
+
+1. Open the index.xhtml file in your web browser.
+
